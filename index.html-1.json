@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>Mastering JavaScript Fundamentals</title>
+                <link rel="stylesheet" href="style.css">
+                </head>
+                <body>
+                    <h1>JavaScript Fundamentals Assignment</h1>
+
+                        <!-- Part 1: User Input & Conditionals -->
+                            <section id="part1">
+                                    <h2>Part 1: Basics</h2>
+                                            <p id="age-result"></p>
+                                                </section>
+
+                                                    <!-- Part 2: Functions -->
+                                                        <section id="part2">
+                                                                <h2>Part 2: Functions</h2>
+                                                                        <p id="function-result"></p>
+                                                                            </section>
+
+                                                                                <!-- Part 3: Loops -->
+                                                                                    <section id="part3">
+                                                                                            <h2>Part 3: Loops</h2>
+                                                                                                    <ul id="loop-result"></ul>
+                                                                                                        </section>
+
+                                                                                                            <!-- Part 4: DOM Interactions -->
+                                                                                                                <section id="part4">
+                                                                                                                        <h2>Part 4: DOM Manipulation</h2>
+                                                                                                                                <button id="change-text-btn">Change Text</button>
+                                                                                                                                        <p id="dom-text">This text will change when you click the button.</p>
+                                                                                                                                            </section>
+
+                                                                                                                                                <script src="script.js"></script>
+                                                                                                                                                </body>
+                                                                                                                                                </html>
